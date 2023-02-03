@@ -1,4 +1,4 @@
-Graduating in May 2023, I am currently working on a B.S. in Computer Science, an undergraduate certificate in cyber operations, and a minor in mathematics. I attend the Burnett Honors College at the University of Central Florida. 
+Currently working on a B.S. in Computer Science and an undergraduate certificate in cyber operations at the Burnett Honors College at the University of Central Florida. 
 
 <!--
 **jenniferolenchak/jenniferolenchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
